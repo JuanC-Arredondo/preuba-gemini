@@ -1,1 +1,2 @@
-print("Hola Mundo Git")
+nombre=input("Ingrese su nombre: ")
+print(f"Hola Mundo {nombre} Bienvenido al mundo de Git")
